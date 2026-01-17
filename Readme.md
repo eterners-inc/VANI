@@ -2,7 +2,11 @@
 
 <div align="center">
 
-<img src="assets/Symbol.png" alt="VANI Logo" width="180"/>
+<img src="assets/cover.png" alt="VANI Cover" width="100%" style="border-radius: 10px;"/>
+
+<br/><br/>
+
+<img src="assets/Symbol.png" alt="VANI Logo" width="120"/>
 
 <br/>
 
@@ -11,7 +15,7 @@
 
 <br/>
 
-[![Patent](https://img.shields.io/badge/Patent-Pending-0052CC?style=flat-square&logo=google-scholar)](https://www.eterners.com)
+[![Patent](https://img.shields.io/badge/Patent-Pending-0052CC?style=flat-square&logo=google-scholar)](https://eterners.com)
 [![Platform](https://img.shields.io/badge/Platform-Windows_10%2F11-0078D6?style=flat-square&logo=windows)](https://www.microsoft.com/windows)
 [![Core](https://img.shields.io/badge/Core-Rust_1.8-black?style=flat-square&logo=rust)](https://www.rust-lang.org/)
 [![License](https://img.shields.io/badge/License-Freeware-green?style=flat-square)](LICENSE)
@@ -35,9 +39,15 @@ In the age of Generative AI and Large Language Models (LLMs), standard data dele
 
 **VANI (Vector Annihilation & Nullification Interface)** is the world's first **Vector Data Nullification Solution**. It uses a proprietary Patent-Core engine to create a "Digital Black Hole," collapsing data vectors into absolute NULL.
 
+<br/>
+<div align="center">
+  <img src="assets/demo.gif" alt="VANI Demo" width="100%" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
+</div>
+<br/>
+
 ---
 
-## ⚡ Key Features (v1.1 Patent Engine)
+## ⚡ Key Features (v1.0 Patent Engine)
 
 * **🧬 Patent-Core Architecture:** Implements **Gram-Schmidt Orthogonalization** to mathematically break the vector link of file headers.
 * **🚀 Flash Collapse Tech:** Wipes **1GB of data in < 1 second** using Rust-based architecture optimized for NVMe/SSD controller caching.
@@ -81,5 +91,4 @@ Once data is nullified by VANI, it cannot be recovered by any means, including f
 
 <div align="center">
   <small>© 2026 ETERNERS Inc. All Rights Reserved. | Co-evolution of AI and Human</small>
-
 </div>
