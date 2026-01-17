@@ -2,10 +2,6 @@
 
 <div align="center">
 
-<img src="assets/cover.png" alt="VANI Cover" width="100%" style="border-radius: 10px;"/>
-
-<br/><br/>
-
 <img src="assets/Symbol.png" alt="VANI Logo" width="120"/>
 
 <br/>
@@ -20,10 +16,16 @@
 [![Core](https://img.shields.io/badge/Core-Rust_1.8-black?style=flat-square&logo=rust)](https://www.rust-lang.org/)
 [![License](https://img.shields.io/badge/License-Freeware-green?style=flat-square)](LICENSE)
 
-<br/>
+<br/><br/>
+
+<img src="assets/cover.png" alt="VANI Cover" width="80%" style="border-radius: 10px;"/>
+
+<br/><br/>
 
 ## [📥 Download VANI Free v1.0 (Latest)](https://github.com/eterners-inc/VANI/releases/latest)
 **[🔒 Upgrade to VANI Pro ($100)](https://eterners.gumroad.com/l/vani-pro)**
+
+<br/>
 
 [Official Website](http://www.eterners.com) • [Report Bug](https://github.com/eterners-inc/VANI/issues)
 
@@ -41,7 +43,7 @@ In the age of Generative AI and Large Language Models (LLMs), standard data dele
 
 <br/>
 <div align="center">
-  <img src="assets/demo.gif" alt="VANI Demo" width="100%" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
+  <img src="assets/demo.gif" alt="VANI Demo" width="45%" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
 </div>
 <br/>
 
