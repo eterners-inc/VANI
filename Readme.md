@@ -16,17 +16,17 @@
 [![Core](https://img.shields.io/badge/Core-Rust_1.8-black?style=flat-square&logo=rust)](https://www.rust-lang.org/)
 [![License](https://img.shields.io/badge/License-Freeware-green?style=flat-square)](LICENSE)
 
-<br/><br/>
+<br/>
 
 <img src="assets/cover.png" height="250" style="border-radius: 10px; margin-right: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
 <img src="assets/demo.gif" height="250" style="border-radius: 10px; margin-left: 20px; border: 1px solid #d0d7de;" />
 
-<br/><br/>
+<br/>
 
 <h2><a href="https://github.com/eterners-inc/VANI/releases/latest">📥 Download VANI Free v1.0 (Latest)</a></h2>
 <strong><a href="https://eterners.gumroad.com/l/vani-pro">🔒 Upgrade to VANI Pro ($100)</a></strong>
 
-<br/><br/>
+<br/>
 
 [Official Website](http://www.eterners.com) • [Report Bug](https://github.com/eterners-inc/VANI/issues)
 
@@ -89,3 +89,4 @@ Once data is nullified by VANI, it cannot be recovered by any means, including f
 <div align="center">
   <small>© 2026 ETERNERS Inc. All Rights Reserved. | Co-evolution of AI and Human</small>
 </div>
+
