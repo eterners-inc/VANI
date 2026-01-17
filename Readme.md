@@ -1,29 +1,30 @@
+<img src="assets/Symbol.png" alt="VANI Logo" width="120"/>
+
+<br/><br/>
+
 # VANI: Vector Null Data Collapse Engine
-
-<div align="center">
-
-<img src="assets/Symbol.png" alt="VANI Logo" width="180"/>
+## The Entropic Death of Data.
+### *Powered by Evolution Hilbert-Orthogonal Engine™*
 
 <br/>
 
-### **The Entropic Death of Data.**
-*Powered by Evolution Hilbert-Orthogonal Engine™*
-
-<br/>
-
-[![Patent](https://img.shields.io/badge/Patent-Pending-0052CC?style=flat-square&logo=google-scholar)](https://www.eterners.com)
+[![Patent](https://img.shields.io/badge/Patent-Pending-0052CC?style=flat-square&logo=google-scholar)](https://eterners.com)
 [![Platform](https://img.shields.io/badge/Platform-Windows_10%2F11-0078D6?style=flat-square&logo=windows)](https://www.microsoft.com/windows)
 [![Core](https://img.shields.io/badge/Core-Rust_1.8-black?style=flat-square&logo=rust)](https://www.rust-lang.org/)
 [![License](https://img.shields.io/badge/License-Freeware-green?style=flat-square)](LICENSE)
 
-<br/>
+<br/><br/>
+
+<img src="assets/cover.png" height="250" style="border-radius: 10px; margin-right: 35px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" /> <img src="assets/demo.gif" height="250" style="border-radius: 10px; border: 2px solid #6e7781;" />
+
+<br/><br/>
 
 ## [📥 Download VANI Free v1.0 (Latest)](https://github.com/eterners-inc/VANI/releases/latest)
 **[🔒 Upgrade to VANI Pro ($100)](https://eterners.gumroad.com/l/vani-pro)**
 
-[Official Website](http://www.eterners.com) • [Report Bug](https://github.com/eterners-inc/VANI/issues)
+<br/>
 
-</div>
+[Official Website](http://www.eterners.com) • [Report Bug](https://github.com/eterners-inc/VANI/issues)
 
 ---
 
@@ -37,7 +38,7 @@ In the age of Generative AI and Large Language Models (LLMs), standard data dele
 
 ---
 
-## ⚡ Key Features (v1.1 Patent Engine)
+## ⚡ Key Features (v1.0 Patent Engine)
 
 * **🧬 Patent-Core Architecture:** Implements **Gram-Schmidt Orthogonalization** to mathematically break the vector link of file headers.
 * **🚀 Flash Collapse Tech:** Wipes **1GB of data in < 1 second** using Rust-based architecture optimized for NVMe/SSD controller caching.
@@ -46,16 +47,28 @@ In the age of Generative AI and Large Language Models (LLMs), standard data dele
 
 ---
 
+## 🛡️ Security Notice: Ghost Protocol™
+
+**VANI is protected by an active anti-tamper mechanism known as "Ghost Protocol™".**
+
+To protect our proprietary **Evolution Hilbert Engine** and Patent-Pending algorithms, this software includes a self-defense system.
+* **Anti-Debugging:** Any attempt to attach a debugger (e.g., x64dbg, IDA Pro) or analyze memory runtime will trigger an immediate **Safety Lockdown** (Application Termination).
+* **Tamper Resistance:** Modification of the binary integrity will render the engine non-functional.
+
+> **Note:** If the program closes unexpectedly during use, please ensure no background debugging or cheat-engine tools are running. This is a deliberate security feature, not a bug.
+
+---
+
 ## 📊 Free vs. Pro Comparison
 
 | Feature | VANI Free | VANI Pro |
 | :--- | :---: | :---: |
 | **Patent Engine** | **✅ Included** | **✅ Included** |
-| **Math Logic** | Gram-Schmidt (Header) | Gram-Schmidt (Header) |
+| **Math Logic** | Gram-Schmidt | Gram-Schmidt |
 | **Speed** | **NVMe Optimized (1GB < 1s)** | **NVMe Optimized (1GB < 1s)** |
 | **Batch Limit** | Single File Mode | **Unlimited (Batch / Folders)** |
-| **Algorithm** | Flash Collapse (1-Pass) | **Flash + Military (3-Pass)** |
-| **Certificate** | ❌ | **✅ Ghost Protocol™ (HTML)** |
+| **Algorithm** | Flash Collapse | **Flash + Military** |
+| **Certificate** | ❌ | **✅ GDPR, HIPAA Audit** |
 | **Price** | **$0 (Free)** | **[$100 (Lifetime)](https://eterners.gumroad.com/l/vani-pro)** |
 
 > **Note:** VANI Free uses the **exact same forensic engine** as the Pro version. We do not compromise on security for free users. Pro is for professionals needing batch efficiency and audit trails.
@@ -79,6 +92,4 @@ Once data is nullified by VANI, it cannot be recovered by any means, including f
 
 ---
 
-<div align="center">
-  <small>© 2026 ETERNERS Inc. All Rights Reserved. | Co-evolution of AI and Human</small>
-</div>
+<small>© 2026 ETERNERS Inc. All Rights Reserved. | Co-evolution of AI and Human</small>
