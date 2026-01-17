@@ -18,7 +18,7 @@
 
 <br/><br/>
 
-<img src="assets/cover.png" alt="VANI Cover" width="80%" style="border-radius: 10px;"/>
+<img src="assets/cover.png" width="48%" style="border-radius: 8px; vertical-align: middle;" /> <img src="assets/demo.gif" width="48%" style="border-radius: 8px; vertical-align: middle;" />
 
 <br/><br/>
 
@@ -40,12 +40,6 @@
 In the age of Generative AI and Large Language Models (LLMs), standard data deletion (Zero-fill, DoD 5220.22-M) is becoming obsolete. AI can reconstruct "Magnetic Ghosts" from standard wipes.
 
 **VANI (Vector Annihilation & Nullification Interface)** is the world's first **Vector Data Nullification Solution**. It uses a proprietary Patent-Core engine to create a "Digital Black Hole," collapsing data vectors into absolute NULL.
-
-<br/>
-<div align="center">
-  <img src="assets/demo.gif" alt="VANI Demo" width="45%" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
-</div>
-<br/>
 
 ---
 
