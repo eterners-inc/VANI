@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="assets/symbol.png" alt="VANI Logo" width="180"/>
+<img src="assets/Symbol.png" alt="VANI Logo" width="180"/>
 
 <br/>
 
@@ -81,4 +81,5 @@ Once data is nullified by VANI, it cannot be recovered by any means, including f
 
 <div align="center">
   <small>© 2026 ETERNERS Inc. All Rights Reserved. | Co-evolution of AI and Human</small>
+
 </div>
