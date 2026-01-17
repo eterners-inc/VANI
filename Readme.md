@@ -18,7 +18,8 @@
 
 <br/><br/>
 
-<img src="assets/cover.png" height="260" style="border-radius: 10px; margin-right: 10px;" /> <img src="assets/demo.gif" height="260" style="border-radius: 10px; margin-left: 10px;" />
+<img src="assets/cover.png" height="250" style="border-radius: 10px; margin-right: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
+<img src="assets/demo.gif" height="250" style="border-radius: 10px; margin-left: 20px; border: 1px solid #d0d7de;" />
 
 <br/><br/>
 
@@ -57,10 +58,10 @@ In the age of Generative AI and Large Language Models (LLMs), standard data dele
 | Feature | VANI Free | VANI Pro |
 | :--- | :---: | :---: |
 | **Patent Engine** | **✅ Included** | **✅ Included** |
-| **Math Logic** | Gram-Schmidt (Header) | Gram-Schmidt (Header) |
+| **Math Logic** | Gram-Schmidt | Gram-Schmidt |
 | **Speed** | **NVMe Optimized (1GB < 1s)** | **NVMe Optimized (1GB < 1s)** |
 | **Batch Limit** | Single File Mode | **Unlimited (Batch / Folders)** |
-| **Algorithm** | Flash Collapse (1-Pass) | **Flash + Military (3-Pass)** |
+| **Algorithm** | Flash Collapse | **Flash + Military** |
 | **Certificate** | ❌ | **✅ Ghost Protocol™ (HTML)** |
 | **Price** | **$0 (Free)** | **[$100 (Lifetime)](https://eterners.gumroad.com/l/vani-pro)** |
 
