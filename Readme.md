@@ -11,7 +11,7 @@
 
 <br/>
 
-<img src="assets/cover.png" height="300" style="border-radius: 10px; margin-right: 60px; box-shadow: 10 4px 8px rgba(0,0,0,0.1);" /> <img src="assets/demo.gif" height="300" style="border-radius: 10px; border: 4px solid #000000;" />
+<img src="assets/cover.png" height="350" style="border-radius: 10px; margin-right: 60px; box-shadow: 10 4px 8px rgba(0,0,0,0.1);" /> <img src="assets/demo.gif" height="350" style="border-radius: 10px; border: 4px solid #000000;" />
 
 <br/>
 
@@ -87,6 +87,7 @@ Once data is nullified by VANI, it cannot be recovered by any means, including f
 ---
 
 <small>© 2026 ETERNERS Inc. All Rights Reserved. | Co-evolution of AI and Human</small>
+
 
 
 
