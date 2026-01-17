@@ -1,12 +1,8 @@
 <img src="assets/Symbol.png" alt="VANI Logo" width="120"/>
 
-<br/>
-
 # VANI: Vector Null Data Collapse Engine
 ## The Entropic Death of Data.
 ### *Powered by Evolution Hilbert-Orthogonal Engine™*
-
-<br/>
 
 [![Patent](https://img.shields.io/badge/Patent-Pending-0052CC?style=flat-square&logo=google-scholar)](https://eterners.com)
 [![Platform](https://img.shields.io/badge/Platform-Windows_10%2F11-0078D6?style=flat-square&logo=windows)](https://www.microsoft.com/windows)
@@ -15,7 +11,7 @@
 
 <br/>
 
-<img src="assets/cover.png" height="250" style="border-radius: 10px; margin-right: 35px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" /> <img src="assets/demo.gif" height="250" style="border-radius: 10px; border: 2px solid #6e7781;" />
+<img src="assets/cover.png" height="300" style="border-radius: 10px; margin-right: 35px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" /> <img src="assets/demo.gif" height="300" style="border-radius: 10px; border: 2px solid #6e7781;" />
 
 <br/>
 
@@ -91,4 +87,5 @@ Once data is nullified by VANI, it cannot be recovered by any means, including f
 ---
 
 <small>© 2026 ETERNERS Inc. All Rights Reserved. | Co-evolution of AI and Human</small>
+
 
