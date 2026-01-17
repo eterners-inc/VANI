@@ -1,6 +1,6 @@
-# VANI: Vector Null Data Collapse Engine
-
 <div align="center">
+
+<h1>VANI: Vector Null Data Collapse Engine</h1>
 
 <img src="assets/Symbol.png" alt="VANI Logo" width="120"/>
 
@@ -18,14 +18,14 @@
 
 <br/><br/>
 
-<img src="assets/cover.png" width="48%" style="border-radius: 8px; vertical-align: middle;" /> <img src="assets/demo.gif" width="48%" style="border-radius: 8px; vertical-align: middle;" />
+<img src="assets/cover.png" height="260" style="border-radius: 10px; margin-right: 10px;" /> <img src="assets/demo.gif" height="260" style="border-radius: 10px; margin-left: 10px;" />
 
 <br/><br/>
 
-## [📥 Download VANI Free v1.0 (Latest)](https://github.com/eterners-inc/VANI/releases/latest)
-**[🔒 Upgrade to VANI Pro ($100)](https://eterners.gumroad.com/l/vani-pro)**
+<h2><a href="https://github.com/eterners-inc/VANI/releases/latest">📥 Download VANI Free v1.0 (Latest)</a></h2>
+<strong><a href="https://eterners.gumroad.com/l/vani-pro">🔒 Upgrade to VANI Pro ($100)</a></strong>
 
-<br/>
+<br/><br/>
 
 [Official Website](http://www.eterners.com) • [Report Bug](https://github.com/eterners-inc/VANI/issues)
 
