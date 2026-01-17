@@ -1,0 +1,29 @@
+VANI FREEWARE LICENSE AGREEMENT
+
+Copyright (c) 2026 ETERNERS Inc. All Rights Reserved.
+
+1. GRANT OF LICENSE
+ETERNERS Inc. grants you a personal, non-exclusive, non-transferable license to use the VANI Free software ("Software") for personal, non-commercial purposes purely free of charge.
+
+2. RESTRICTIONS
+You may NOT:
+- Decompile, reverse engineer, disassemble, or attempt to derive the source code of the Software.
+- Modify, adapt, translate, or create derivative works based on the Software.
+- Use the Software for any malicious purposes, including but not limited to the creation of malware, ransomware, or destruction of evidence in criminal investigations.
+- Sell, rent, lease, or commercially distribute the Software without prior written consent from ETERNERS Inc.
+
+3. PROPRIETARY RIGHTS & PATENT NOTICE
+The Software contains proprietary "Ghost Protocol" technology and the "Evolution Hilbert Engine".
+This Software is protected by copyright laws and international copyright treaties, as well as other intellectual property laws and treaties.
+The core algorithms implemented in this Software are subject to Patent Pending status. Any unauthorized replication of the logic (including Gram-Schmidt Orthogonalization implementation) will be prosecuted to the fullest extent of the law.
+
+4. DISCLAIMER OF WARRANTY
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND. ETERNERS INC. DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.
+
+5. LIMITATION OF LIABILITY
+IN NO EVENT SHALL ETERNERS INC. BE LIABLE FOR ANY DATA LOSS, DAMAGES, OR LEGAL CONSEQUENCES ARISING OUT OF THE USE OR INABILITY TO USE THE SOFTWARE. THE "DATA NULLIFICATION" PROCESS IS MATHEMATICALLY IRREVERSIBLE. USE AT YOUR OWN RISK.
+
+6. GOVERNING LAW AND JURISDICTION
+This Agreement shall be governed by and construed in accordance with the laws of the Republic of Korea, without regard to its conflict of law principles.
+Any legal action or proceeding arising under this Agreement will be brought exclusively in the courts located in Seoul, Republic of Korea, and the parties hereby irrevocably consent to the personal jurisdiction and venue therein.
+HOWEVER, ETERNERS Inc. shall have the right to seek injunctive relief or other equitable remedies in any court of competent jurisdiction worldwide to protect its Intellectual Property Rights (including Patent, Copyright, and Trade Secrets).
